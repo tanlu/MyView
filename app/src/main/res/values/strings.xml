@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyView</string>
+    <string name="myview1">自定义textview</string>
 </resources>
